@@ -1,0 +1,27 @@
+{
+  "name": "cristopheryusuke.github.io",
+  "version": "1.0.0",
+  "description": "it's my personal website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristopherYusuke/cristopheryusuke.github.io.git"
+  },
+  "keywords": [
+    "html",
+    "js",
+    "css"
+  ],
+  "author": "Cristopher Yusuke Uehara Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristopherYusuke/cristopheryusuke.github.io/issues"
+  },
+  "homepage": "https://github.com/CristopherYusuke/cristopheryusuke.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta"
+  }
+}
