@@ -21,5 +21,6 @@
     "url": "https://github.com/CristopherYusuke/cristopheryusuke.github.io/issues"
   },
   "homepage": "https://github.com/CristopherYusuke/cristopheryusuke.github.io#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {}
 }

@@ -1,3 +1,19 @@
+body, html{
+	background: whitesmoke;
+}
 p{
-	color:blue
+	margin: 0px;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.top{
+	margin-top: 20px;
+}
+
+div.line {
+	background-color: gray;
+	height: 5px;
 }
