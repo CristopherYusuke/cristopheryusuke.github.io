@@ -17,3 +17,13 @@ div.line {
 	background-color: gray;
 	height: 5px;
 }
+
+ul {
+	padding:20px;
+}
+.contact {
+	text-align: right;
+}
+.contact a {
+	margin: 0 5px;
+}
