@@ -19,8 +19,10 @@ div.line {
 }
 
 ul {
-	padding:20px;
+	padding: 0;
+
 }
+
 .contact {
 	text-align: center;
 }
